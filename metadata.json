@@ -1,0 +1,6 @@
+{
+  "name": "Dr. Shailendra Nanaware | Mulund Eye Care",
+  "description": "Official medical portal for Dr. Shailendra Nanaware (MBBS, DOMS) - Senior Ophthalmologist, Cataract & Refractive Surgeon with 26+ years of clinical excellence in Mulund West, Mumbai.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
